@@ -6,7 +6,7 @@
 
 Here is my introduction, "who I am" 😃
 
-👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇👇
+👇👇👇
 
 https://gotoyuriko.github.io/gotoyuriko/
 
