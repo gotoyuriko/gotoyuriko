@@ -203,7 +203,7 @@ section{
 /* 480px以下に適用されるCSS（スマホ用） */
   section{
   width: 100%;
-  margin-left: auto;
+  margin-left: 10px;
   margin-right: auto;
   align-items: center;
   margin-top: 50px;
