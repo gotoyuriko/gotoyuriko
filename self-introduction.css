@@ -200,14 +200,13 @@ section{
 
 //mobile
 @media screen and (max-width: 480px) {
-	/* 480px以下に適用されるCSS（スマホ用） */
-  ul {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  li {
-    width: 50%;
-    box-sizing: border-box;
-    padding: 10px;
-  }
+/* 480px以下に適用されるCSS（スマホ用） */
+  section{
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  margin-top: 50px;
+}
+	  
 }
