@@ -197,3 +197,17 @@ section{
 .gallery {
   margin-bottom: 50px;
 }
+
+//mobile
+@media screen and (max-width: 480px) {
+	/* 480px以下に適用されるCSS（スマホ用） */
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  li {
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+  }
+}
