@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yurikogoto/" target="blank">Linkedin</a>
-<a href="https://fb.com/https://www.facebook.com/yurikogoto95/" target="blank">Facebook</a>
-<a href="https://instagram.com/https://www.instagram.com/yuri.doodle/" target="blank">Instagram</a>
-<a href="https://www.behance.net/https://www.behance.net/yurikogoto1" target="blank">Behance</a>
+<a href="https://www.linkedin.com/in/yurikogoto/" target="blank">Linkedin</a>
+<a href="https://www.facebook.com/yurikogoto95/" target="blank">Facebook</a>
+<a href="https://www.instagram.com/yuri.doodle/" target="blank">Instagram</a>
+<a href="https://www.behance.net/yurikogoto1" target="blank">Behance</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
