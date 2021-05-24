@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gotoyuriko&label=Profile%20views&color=0e75b6&style=flat" alt="gotoyuriko" /> </p>
 
-- 🔭 I’m currently working on [YURI Visual Studio](https://github.com/gotoyuriko/gotoyuriko.github.io)
+- 🔭 I’m currently working on [YURI Visual Designer](https://github.com/gotoyuriko/gotoyuriko.github.io)
 
 - 🌱 I’m currently learning **.Net C#, Bootstrap, jQuery**
 
