@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/yurikogoto/" target="blank">Linkedin</a>
 <a href="https://www.facebook.com/yurikogoto95/" target="blank">Facebook</a>
 <a href="https://www.instagram.com/yuri.doodle/" target="blank">Instagram</a>
-<a href="https://www.behance.net/yurikogoto1" target="blank">Behance</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
