@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.Net C#, Bootstrap, jQuery**
 
-- 👨‍💻 All of my projects are available at [https://yc-yourcreativity.netlify.app/(https://yc-yourcreativity.netlify.app/)]
+- 👨‍💻 All of my projects are available at [https://yc-yourcreativity.netlify.app/](https://yc-yourcreativity.netlify.app/)
 
 - 💬 Ask me about **Illustration, Promotional Design, Web Design**
 
